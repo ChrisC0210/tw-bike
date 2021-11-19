@@ -19,6 +19,16 @@ const routes = [
     path: '/newpage',
     name: 'NewPage',
     component: () => import('../views/NewPage.vue')
+  },
+  {
+    path: '/search',
+    name: 'Search',
+    component: () => import('../views/Search.vue')
+  },
+  {
+    path: '/routeInfo',
+    name: 'RouteInfo',
+    component: () => import('../views/RouteInfo.vue')
   }
 ]
 

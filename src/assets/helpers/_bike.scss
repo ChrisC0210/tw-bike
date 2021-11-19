@@ -1,0 +1,41 @@
+//btn
+.btn-primary {
+  border-radius: 20px;
+}
+.text-shadow{
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.white {
+  color: $white;
+}
+.pink {
+  color: $pink;
+}
+.gray-800{
+  color: $gray-800;
+}
+.gray-700{
+  color: $gray-700;
+}
+.yellow-600{
+  color: $c-y-600;
+}
+.yellow-800{
+  color: $c-y-800;
+}
+.green-400{
+  color: $c-g-400;
+}
+.green-600{
+  color: $c-g-600;
+}
+.green-800{
+  color: $c-g-800;
+}
+a{
+  color: $gray-800;
+  text-decoration: none;
+  &:hover {
+    color: $c-g-600;
+  }
+}
