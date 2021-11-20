@@ -4,5 +4,6 @@
 //     : '/dist/'
 // }
 module.exports = {
-  publicPath: '/tw-bike/dist/'
+  publicPath: '/tw-bike/dist/',
+  filenameHashing: false
 }
