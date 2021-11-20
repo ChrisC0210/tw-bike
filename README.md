@@ -1,6 +1,6 @@
 # tw-bike
 ### demo
-See [tw-bike](https://chrisc0210.github.io/tw-bike/).
+See [tw-bike](https://chrisc0210.github.io/tw-bike/dist).
 
 ## Project setup
 ```
