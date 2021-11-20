@@ -4,7 +4,5 @@
 //     : '/dist/'
 // }
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production'
-    ? '/tw-bike/'
-    : '/dist/'
+  publicPath: '/tw-bike/dist/'
 }
